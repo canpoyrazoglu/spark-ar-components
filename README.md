@@ -12,3 +12,6 @@ A humble yet passionate attempt to provide reusable Spark AR Studio components f
 
 ### Hue Sweeper
 A block that outputs hue-shifting colors (rainbow effect). Can be used directly at patch for any color input. Adjustable duration and enable switch. Just connect the `Color` output to any port of type `Color` and enjoy the rainbow effect.
+
+## Contribution
+Feel free to contribute to this repository. If you're using anything from this repository, feel free to create a PR and add a link to your effect here.
