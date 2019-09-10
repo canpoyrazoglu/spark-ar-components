@@ -10,5 +10,5 @@ A humble yet passionate attempt to provide reusable Spark AR Studio components f
  - Drag and drop your instance of the block (the one inside the `Scene` pane, *not* the one from `Assets` pane) into the patch editor.
  - You can now use your block!
 
-### Hue Shift
+### Hue Sweeper
 A block that outputs hue-shifting colors (rainbow effect). Can be used directly at patch for any color input. Adjustable duration and enable switch. Just connect the `Color` output to any port of type `Color` and enjoy the rainbow effect.
